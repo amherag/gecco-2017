@@ -1,0 +1,11 @@
+sample-sigconf.pdf
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.gz
+*.zip
+full-paper.pdf
+new-version
+randomized-parameterization-particle
